@@ -17,6 +17,19 @@ public class p166 {
 
         System.out.println(result.get(0)[0]);
 
+        List<int[]> result2 = arr1.stream()
+                .flatMap(i -> arr2.stream()
+                        .filter(j -> (i+j) % 3 == 0).map(j -> new int[]{i,j}))
+                .collect(Collectors.toList());
+
+        result2.forEach(arr -> {
+                for(int a : arr){
+                    System.out.println(a);
+                }
+            System.out.println();
+        });
+
+
 
     }
 }
