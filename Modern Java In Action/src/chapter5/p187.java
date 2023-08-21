@@ -16,15 +16,16 @@ public class p187 {
                                                 new int[]{a,b, (int)Math.sqrt(a*a + b*b)})
                         );
 
-        System.out.println(pythagoreanTriples.count());
 
-//        Stream<int[]> pythagoreanTriples =
-//                IntStream.rangeClosed(1, 100)
-//                        .flatMap(a ->
-//                                IntStream.rangeClosed(a, 100)
-//                                        .filter(b -> Math.sqrt(a * a + b * b) % 1 == 0)
-//                                        .map(b ->
-//                                                new int[]{a, b, (int) Math.sqrt(a * a + b * b)})
-//                        );
+
+        Stream<double[]> pythagoreanTriples2 =
+        IntStream.rangeClosed(1, 100).boxed()
+                .flatMap(a -> IntStream.rangeClosed(a, 100)
+                                        .mapToObj(b-> new double[]{a,b,Math.sqrt(a*a + b*b)})
+                                        .filter(t -> t[2] % 1 == 0));
+
+
+
+
     }
 }
