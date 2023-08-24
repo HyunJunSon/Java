@@ -4,45 +4,70 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="498c2660-eb81-4916-8d38-8869c94cdcdd" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/chapter6/p214.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter6/p214.java" afterDir="false" />
+    <list default="true" id="1322be5b-c61b-46f6-8aa0-0cf2ef81bd0c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter8/p279.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter8/p287.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter8/p288.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter8/p288_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter8/p289.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter8/p291.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter9/p295.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/programers_coding_test/문자열반복해서출력하기.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ModernJava_Gradle/src/main/java/chapter7/ForkJoinSumCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ModernJava_Gradle/src/main/java/chapter7/ParallelStreamBenchmark.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ModernJava_Gradle/src/main/java/chapter7/ParallelStreams.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ModernJava_Gradle/src/main/java/chapter7/ParallelStreamsHarness.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ModernJava_Gradle/src/main/java/chapter7/WordCount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ModernJava_Gradle/src/main/java/chapter8/p279.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ExternalProjectsData">
-    <projectState path="$PROJECT_DIR$">
-      <ProjectState />
-    </projectState>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 4
-}]]></component>
-  <component name="ProjectId" id="2UN66sZl6HkkPnY4L3KMEFrRtrp" />
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2UNCxJ4HSbygo6BLfnCV9iBNA68" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "android.gradle.sync.needed": "true",
-    "git-widget-placeholder": "master"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_MARK_IGNORED_FILES_AS_EXCLUDED&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="498c2660-eb81-4916-8d38-8869c94cdcdd" name="Changes" comment="" />
-      <created>1692767518398</created>
+      <changelist id="1322be5b-c61b-46f6-8aa0-0cf2ef81bd0c" name="Changes" comment="" />
+      <created>1692770899822</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1692767518398</updated>
+      <updated>1692770899822</updated>
     </task>
     <servers />
   </component>
